@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DS288 Journal</title>
+</head>
+<body>
+    <h1>DS288 Capstone Weekly Journal</h1>
+    <p>
+        Maintain a website (e.g., on GitHub, WordPress, Weebly, Wix, etc.) or shared document (e.g., a Google Doc) where each week, you will provide a weekly status 
+        report of your project.  A status report shall be one-page max, elaborating on: 
+        (1) fails of the week, (2) successes of the week, (3) difficulties of the week, and (4) goals for next week.
+    </p>
+    <h2>Week 1</h2>
+    <p>
+        For the first week my success was realizing that I probably cannot find the data I need for my original idea of creating an app meant to calm those 
+        with health anxiety. From there, I decided to start looking for datasets then build up an idea around a dataset that is useful. My goal for next week is to 
+        nail down the exact dataset and capstone idea.
+    </p>
+    <h2>Week 2</h2>
+    <p>
+        This week I worked towards finalizing an idea based off a dataset I found interesting and useful. I came across the Human Mortality Database which has datasets
+        for over 30 countries which provides detailed mortality and population data. Based off this data, build predictive models for future life expectancy across 
+        different countries. The project will focus on identifying factors influencing mortality, understanding demographic disparities, and predicting future trends 
+        using statistical and machine learning models. My goal for next week is to familiarize yourself with data preprocessing and visualization tools.
+    </p>
+</body>
+</html>
